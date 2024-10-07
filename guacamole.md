@@ -7,3 +7,6 @@ Guacamole
 ##Measurements
 
 ## Directions
+Mash the Avocado
+Juice the Lime
+Chop the Cilantro
